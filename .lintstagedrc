@@ -1,0 +1,12 @@
+{
+  "linters": {
+    "__tests__/**/*.js": [
+      "eslint",
+      "git add"
+    ],
+    "src/**/*.js": [
+      "eslint",
+      "git add"
+    ]
+  }
+}
